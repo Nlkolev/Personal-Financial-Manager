@@ -1,2 +1,6 @@
 # ![Gerenciador Financeiro com Python](https://img.shields.io/badge/Gerenciador_Financeiro_com_Python-0096c7?style=for-the-badge&logo=python&logoColor=white)
+<h1 align="center">
+  <img src="https://img.shields.io/badge/GERENCIADOR_FINANCEIRO-0096c7?style=for-the-badge&logo=python&logoColor=white" width="400" alt="Gerenciador Financeiro com Python">
+</h1>
+
 Este projeto é um gerenciador financeiro simples, desenvolvido para ajudar os usuários a controlar suas finanças pessoais. Ele permite que os usuários registrem suas receitas e despesas, categorizem suas transações e visualizem relatórios financeiros.Com o cunho educativo, estou criando este projeto para fins de aprendizado e prática de programação em Python e análise de dados.
