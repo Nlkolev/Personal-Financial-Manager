@@ -1,0 +1,3 @@
+#Gerenciador financeiro
+
+Este projeto é um gerenciador financeiro simples, desenvolvido para ajudar os usuários a controlar suas finanças pessoais. Ele permite que os usuários registrem suas receitas e despesas, categorizem suas transações e visualizem relatórios financeiros.Com o cunho educativo, estou criando este projeto para fins de aprendizado e prática de programação em Python e análise de dados.
